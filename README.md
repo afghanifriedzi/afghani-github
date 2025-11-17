@@ -1,0 +1,2 @@
+# afghani-github
+latihan tugas
